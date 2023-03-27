@@ -3,5 +3,5 @@ A simple grep clone written in Rust.
 
 ## Usage
 ```
-minigrep <query> <filename>
+cargo run -- <query> <filename>
 ```
